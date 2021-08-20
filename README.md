@@ -2,7 +2,7 @@
 
 ### Interests
 - Full Stack Web Development
-- Mirco Services
+- Micro Services
 - Data Visualization
 - System Flows
 
